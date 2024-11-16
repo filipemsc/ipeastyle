@@ -1,5 +1,5 @@
 ---
-title: Ipea template
+title: "Ipea template"
 format:
   ipeastyle-revealjs: default
 author: Filipe Cavalcanti
