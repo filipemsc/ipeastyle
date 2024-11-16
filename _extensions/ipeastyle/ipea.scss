@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono:400,700);
+
+$font-family-sans-serif: "Lato", sans-serif !default;
+$font-family-serif: "Lato", serif !default;
+$font-family-monospace: "Fira Mono", monospace !default;
+
+$presentation-h1-font-size: 2em;
+$presentation-h2-font-size: 1.7em;
+$presentation-h3-font-size: 1.4em;
+$presentation-h4-font-size: 1.1em;
+$presentation-font-size-root: 40px;
+$presentation-line-height: 1.5em;
+
+/*-- scss:rules --*/
+

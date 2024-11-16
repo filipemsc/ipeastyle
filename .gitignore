@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.Rdata
+/.quarto/
+template_files/*
+*.html
+*.Rproj
