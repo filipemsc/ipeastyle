@@ -8,6 +8,6 @@ contributes:
       logo: ipea_logo_revealjs.png
       theme: [default, ipea.scss]
       title-slide-attributes:
-        data-background-image: gradient.png 
+        data-background-image: gradient3.png 
       toc: true
       toc-depth: 2

@@ -15,9 +15,6 @@ $presentation-h3-font-size: 1.4em;
 $presentation-h4-font-size: 1.1em;
 $presentation-line-height: 1.5em;
 
-$gradient-start: #1e7394; 
-$gradient-end: #023d55; 
-
 /*-- scss:rules --*/
 
 .quarto-title-block{
@@ -28,6 +25,7 @@ $gradient-end: #023d55;
         font-size: 2em !important;
         color:#fff;
         padding:18%;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     }
 
     .quarto-title-authors{
@@ -38,8 +36,15 @@ $gradient-end: #023d55;
         font-size:0.5em;
     }
 
+    .reveal .slide-logo{
+        display: none !important;
+    }
 }
 
 h2 {
     padding-bottom: 35px;
+  }
+
+  .reveal .slide-logo {
+    z-index: -999 !important;
   }
